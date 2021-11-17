@@ -39,7 +39,7 @@ $ cd bg-jobs-email
 # Instale as dependências
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação e as filas em modo de desenvolvimento
 $ yarn dev
 
 # O servidor iniciará na porta:3333 - acesse <http://localhost:3333>
@@ -49,6 +49,3 @@ $ yarn dev
 * [x] - Registro de Usuários;
 * [x] - Envio de emails;
 * [x] - Fila em 2º plano;
-
-
-<img src="https://heroku-badge.herokuapp.com/?app=betheheroappbackend">
