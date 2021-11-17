@@ -1,5 +1,6 @@
 # bg-jobs-email
 
+Projeto de desenvolvimento e aprendizagem ao conceito de Background Jobs ou envio de email em filas.
 ## Linguagens e Frameworks
 <table style="width:100%">
     <thead>
