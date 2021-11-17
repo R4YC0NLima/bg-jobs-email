@@ -5,7 +5,7 @@ import BullBoard from "bull-board"
 import Queue from './app/lib/Queue'
 
 const app = express()
-console.log(BullBoard);
+// BullBoard.setQueues(Queue.queues.map(queue => queue.bull))
 // BullBoard.setQueues(Queue.queues.map(queue => queue.bull))
 
 const PORT = 3333
